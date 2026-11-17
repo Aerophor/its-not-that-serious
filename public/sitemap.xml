@@ -2,12 +2,12 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://github.com/Aerophor/its-not-that-serious.git/categories/</loc>
+    <loc>https://example.org/categories/</loc>
   </url><url>
-    <loc>https://github.com/Aerophor/its-not-that-serious.git/</loc>
+    <loc>https://example.org/</loc>
   </url><url>
-    <loc>https://github.com/Aerophor/its-not-that-serious.git/posts/</loc>
+    <loc>https://example.org/posts/</loc>
   </url><url>
-    <loc>https://github.com/Aerophor/its-not-that-serious.git/tags/</loc>
+    <loc>https://example.org/tags/</loc>
   </url>
 </urlset>
