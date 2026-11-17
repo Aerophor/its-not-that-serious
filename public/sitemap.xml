@@ -2,10 +2,12 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/Aerophor/its-not-that-serious.git/categories/</loc>
+    <loc>https://github.com/Aerophor/its-not-that-serious.git/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/Aerophor/its-not-that-serious.git/</loc>
+    <loc>https://github.com/Aerophor/its-not-that-serious.git/</loc>
   </url><url>
-    <loc>http://localhost:1313/Aerophor/its-not-that-serious.git/tags/</loc>
+    <loc>https://github.com/Aerophor/its-not-that-serious.git/posts/</loc>
+  </url><url>
+    <loc>https://github.com/Aerophor/its-not-that-serious.git/tags/</loc>
   </url>
 </urlset>
