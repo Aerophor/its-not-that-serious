@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on Only in the Opinion of Power</title>
+    <link>http://localhost:1313/Aerophor/its-not-that-serious.git/posts/</link>
+    <description>Recent content in Posts on Only in the Opinion of Power</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 16 Nov 2026 20:42:24 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/Aerophor/its-not-that-serious.git/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Opinion pieces, fact posts, news summaries, explainers</title>
+      <link>http://localhost:1313/Aerophor/its-not-that-serious.git/posts/homepage/</link>
+      <pubDate>Mon, 16 Nov 2026 20:42:24 +0100</pubDate>
+      <guid>http://localhost:1313/Aerophor/its-not-that-serious.git/posts/homepage/</guid>
+      <description>&lt;p&gt;Of ideas worth &lt;em&gt;organizing&lt;/em&gt;, whether I &lt;strong&gt;honor&lt;/strong&gt; them or not.&lt;/p&gt;
+&lt;h2 id=&#34;this-is-a-test-post&#34;&gt;This is a test post.&lt;/h2&gt;
+&lt;p&gt;Thanks to &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt; for hosting.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
